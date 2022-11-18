@@ -89,13 +89,16 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 <img src="./assets/book_homepage.png">
 
 
-<img src="./assets/00-manifest.jpg">
+<img src="./assets/signup.png">
 
 
-<img src="./assets/00-service-worker.jpg">
+<img src="./assets/login.png">
 
 
-<img src="./assets/00-idb-storage.jpg">
+<img src="./assets/logged_in.png">
+
+
+<img src="./assets/saved+book.png">
 
 
 
