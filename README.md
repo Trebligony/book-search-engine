@@ -23,7 +23,7 @@ The task is to take a fully functioning Google Books API search engine built wit
 ### App Screenshots
 
 
-<img src="./assets/00-demo.jpg">
+<img src="./assets/book_homepage.png">
 
 
 <img src="./assets/00-manifest.jpg">
